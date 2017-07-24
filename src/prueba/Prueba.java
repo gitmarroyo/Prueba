@@ -7,6 +7,7 @@ public class Prueba extends JApplet{
 
 	private static final long serialVersionUID = 1L;
 
+	@Override
 	public void paint(Graphics g) {
 	        g.drawString("Hola, mundo!", 45, 95);
 	        g.drawString("Aquí estamos practicando!", 45, 105);
