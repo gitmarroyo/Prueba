@@ -11,6 +11,6 @@ public class Prueba extends JApplet{
 	public void paint(Graphics g) {
 	        g.drawString("Hola, mundo!", 45, 95);
 	        g.drawString("Aquí estamos practicando!", 45, 105);
-	        g.drawString("Aquí estamos intentando hacer un repositorio!", 45, 125);
+	        g.drawString("Aquí estamos intentando hacer repositorio!", 45, 125);
 	    }
 }
