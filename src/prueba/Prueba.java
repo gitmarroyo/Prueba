@@ -14,5 +14,6 @@ public class Prueba extends JApplet{
 	        g.drawString("Aquí estamos intentando hacer repositorio!", 45, 125);
 	        g.drawString("Prueba repositorio 1", 45, 145);
 	        g.drawString("Prueba Rama-1", 45, 160);
+	        g.drawString("Prueba Rama-1 0001", 45, 180);
 	    }
 }
